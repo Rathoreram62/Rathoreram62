@@ -6,8 +6,8 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8E2DE2&style=flat" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" />
+<img src="https://komarev.com/ghpvc/?username=Rathoreram62&label=Profile%20Views&color=8E2DE2&style=flat" />
+<img src="https://img.shields.io/github/followers/Rathoreram62?label=Followers&style=social" />
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Rathoreram62/output/github-contribution-grid-snake.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/Rathoreram62/Rathoreram62/output/github-contribution-grid-snake.svg" width="90%" />
 
 </div>
 
