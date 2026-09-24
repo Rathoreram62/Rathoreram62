@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8E2DE2&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Rathoreram62&label=Profile%20Views&color=8E2DE2&style=flat" />
 <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" />
 
 </div>
@@ -19,9 +19,9 @@
 
 - Currently learning **cybersecurity and bug bounty hunting**
 - Focused on web application security and ethical hacking
-- Exploring new tools, techniques and CTFs
+- Exploring new tools, techniques 
 - Open to collaborating on security-related projects
-- Fun fact: always one tab away from breaking my own VM
+
 
 <br clear="both">
 
@@ -58,12 +58,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rathoreram62&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathoreram62&theme=radical&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathoreram62&layout=compact&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathoreram62&theme=react-dark&hide_border=true" width="95%" />
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rathoreram62&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/Rathoreram62/Rathoreram62/output/github-contribution-grid-snake.svg" width="90%" />
 
 </div>
 
