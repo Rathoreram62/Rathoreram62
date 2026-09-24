@@ -1,21 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:8E2DE2,100:FF0080&height=220&section=header&text=%20%20Ram%20Rathore&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Aspiring+Bug+Bounty+Hunter;Cybersecurity+Enthusiast;Breaking+things+to+learn+how+they+work;Always+one+CVE+away+from+glory" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Rathoreram62&label=Profile%20Views&color=8E2DE2&style=flat" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" />
-
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oCXl/giphy.gif" width="30"> About Me
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 - Currently learning **cybersecurity and bug bounty hunting**
 - Focused on web application security and ethical hacking
