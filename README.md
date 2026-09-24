@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Hey,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Hey,%20I'm%20Ram Rathore&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=500&lines=Aspiring+Bug+Bounty+Hunter;Cybersecurity+Enthusiast;Breaking+things+to+learn+how+they+work" alt="Typing SVG" />
 
