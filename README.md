@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:8E2DE2,100:FF0080&height=220&section=header&text=%20I'm%20Ram%20Rathore&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:8E2DE2,100:FF0080&height=220&section=header&text=%20%20Ram%20Rathore&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Aspiring+Bug+Bounty+Hunter;Cybersecurity+Enthusiast;Breaking+things+to+learn+how+they+work;Always+one+CVE+away+from+glory" alt="Typing SVG" />
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rathoreram62&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Rathoreram62/output/github-contribution-grid-snake.svg" width="90%" />
 
 </div>
 
